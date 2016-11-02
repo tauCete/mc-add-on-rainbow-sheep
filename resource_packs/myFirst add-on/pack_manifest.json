@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "36231D59-6040-4963-BB86-BCA158F67374",
+    "name": "myFirst add-on [Behaviors]",
+    "packs_version": "0.0.1",
+    "description": "myFirst add-on",
+    "modules": [
+      {
+        "description": "myFirst add-on",
+        "version": "0.0.1",
+        "uuid": "0D984363-0284-40C8-98C1-91EA381EB28E",
+        "type": "resources"
+      }
+    ]
+  }
+}
